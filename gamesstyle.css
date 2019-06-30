@@ -1,0 +1,84 @@
+
+
+.snakehard {
+
+   position: relative;
+    text-decoration: none;
+    color: rgb(180, 8, 8);
+    top:30px;
+     
+ }
+ .snakeeasy {
+   
+    position: relative;
+    text-decoration: none;
+    color: rgb(180, 8, 8);
+    top:40px;
+     
+ }
+ .flappy {
+   
+    position: relative;
+    text-decoration: none;
+    color: rgb(180, 8, 8);
+    top:50px;
+     
+ }
+ .ball {
+   
+    position: relative;
+    text-decoration: none;
+    color: rgb(180, 8, 8);
+    top:60px;
+     
+ }
+.welcome{
+    position: relative;
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+    left:1px;
+    top:1px;
+}
+.uppertxt{
+    position: relative;
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    top:20px;
+}
+.scores{
+    position: absolute;
+    float: right;
+    text-decoration: none;
+    color: rgb(88, 0, 0);
+    top:20%;
+    right: 10%;
+}
+.shard{
+    position: absolute;
+    float: right;
+    text-decoration: none;
+    color: rgb(88, 0, 0);
+    top:27%;
+    right: 10%;
+}
+.seasy{
+    position: absolute;
+    float: right;
+    text-decoration: none;
+    color: rgb(88, 0, 0);
+    top:32%;
+    right: 10%;
+   
+}
+.fbird{
+    position: absolute;
+    float: right;
+    text-decoration: none;
+    color: rgb(88, 0, 0);
+    top:37%;
+    right: 10%;
+}
+.contact{
+    position: relative;
+    top:60px;
+}
